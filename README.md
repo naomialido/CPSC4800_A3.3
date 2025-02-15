@@ -6,7 +6,7 @@ This repository contains a brief EDA of the House Price Dataset from Kaggle. The
 Due to the project's focus on data analysis, a detailed main summary has been omitted to keep the documentation concise.
 ___
 ### Project Overview
-1. **Data Loading** - importing dataset and checking general structure and data types
+1. **Data Loading** - importing dataset and checking general structure, data types, and basic summary statistics
 2. **Data cleaning** - handling missing values
 3. **Univariate Analysis/Data Distribution** - examining data distribution of some individual features
 4. **Bivariate Analysis**- investigating relationships between features
